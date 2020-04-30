@@ -12,3 +12,5 @@ Course Content:
 - Exceptions
 - Assertions
 - File IO
+
+SQL notes
