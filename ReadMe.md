@@ -1,4 +1,4 @@
-# LinuxAcademy-Certified-Associate-in-Python-Programming-Certification
+# Python and SQL
 
 This repository is collection of my notes and programs from Linux Academy course on Certified Associate In Python Programming Certification.
 
